@@ -1,6 +1,6 @@
 [
     {
-        "element_id": "DE-001",
+        "element_id": "DE-004",
         "name": "System Purpose Declaration",
         "category": "Technical Documentation",
         "source_article": "Annex IV, Section 1",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "element_id": "DE-002",
+        "element_id": "DE-005",
         "name": "Risk Control Process Overview",
         "category": "Risk Management",
         "source_article": "Article 9",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "element_id": "DE-003",
+        "element_id": "DE-006",
         "name": "Human Oversight Log",
         "category": "Human Oversight",
         "source_article": "Article 14",

@@ -1,6 +1,6 @@
 # Technical Disclosure Elements
 
-## DE-001 – System Purpose Declaration
+## DE-004 – System Purpose Declaration
 
 **Category:** Technical Documentation
 **Source Article:** Annex IV, Section 1
@@ -18,7 +18,7 @@ Document system purpose, end-users, and stakeholder roles in a structured format
 
 ---
 
-## DE-002 – Risk Control Process Overview
+## DE-005 – Risk Control Process Overview
 
 **Category:** Risk Management
 **Source Article:** Article 9
@@ -36,7 +36,7 @@ Define a documented risk workflow, including detection triggers, mitigation stra
 
 ---
 
-## DE-003 – Human Oversight Log
+## DE-006 – Human Oversight Log
 
 **Category:** Human Oversight
 **Source Article:** Article 14
