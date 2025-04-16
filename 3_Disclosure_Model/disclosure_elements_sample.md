@@ -36,16 +36,16 @@ Define a documented risk workflow, including detection triggers, mitigation stra
 
 ---
 
-## DE-006 – Human Oversight Log
+## DE-006 – Human Oversight Intervention Log
 
 **Category:** Human Oversight
 **Source Article:** Article 14
 **Legal Text:**
 > High-risk AI systems shall be designed and developed in such a way that natural persons can effectively oversee the AI system.
 **Technical Translation:**
-Maintain audit logs of human interventions or override actions triggered during AI operation.
-**Disclosure Format:** `oversight_log.csv`
-**Evidence Type:** CSV log file
+Maintain structured audit logs of human interventions during AI system operation, capturing timestamp, context, and user identity.
+**Disclosure Format:** `intervention_log.csv`
+**Evidence Type:** Structured log file
 **Mandatory:** Yes
 **Risk Level Applicability:** High-risk only
 **Reusability:** Domain-specific

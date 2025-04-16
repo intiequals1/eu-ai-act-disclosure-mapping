@@ -37,13 +37,13 @@
     },
     {
         "element_id": "DE-006",
-        "name": "Human Oversight Log",
+        "name": "Human Oversight Intervention Log",
         "category": "Human Oversight",
         "source_article": "Article 14",
         "legal_text": "High-risk AI systems shall be designed and developed in such a way that natural persons can effectively oversee the AI system.",
-        "technical_translation": "Maintain audit logs of human interventions or override actions triggered during AI operation.",
-        "disclosure_format": "oversight_log.csv",
-        "evidence_type": "CSV log file",
+        "technical_translation": "Maintain structured audit logs of human interventions during AI system operation, capturing timestamp, context, and user identity.",
+        "disclosure_format": "intervention_log.csv",
+        "evidence_type": "Structured log file",
         "mandatory": true,
         "risk_level_applicability": "High-risk only",
         "reusability": "Domain-specific",
@@ -51,6 +51,7 @@
         "crosswalk_tags": [
             "ISO 42001.7.4.2",
             "OECD.AI.2.2"
-        ]
+        ],
+        "description": "Log entries for real-time or retrospective interventions by human supervisors."
     }
 ]
