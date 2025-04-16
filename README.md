@@ -19,6 +19,7 @@ To translate the legal obligations of the EU AI Act into:
 - `3_Disclosure_Model/`: Disclosure elements and risk mappings
 - `4_Templates_and_Tools/`: Conformity checklists and templates
 - `5_Communication/`: Presentation materials and summaries
+- `6_References_and_Links/`: Links and references
 
 ## License
 
